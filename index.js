@@ -1,8 +1,4 @@
-// document.querySelector("button").addEventListener("click", function () {
-// alert("I got clicked!");});
-
-
-// document.querySelector("button").addEventListener("click", test);
+// this is a comment
 
 var btns = document.querySelectorAll(".drum");
 
